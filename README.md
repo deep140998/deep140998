@@ -38,11 +38,11 @@
 ### 🖥️ Architect Cockpit
 
 ```zsh
-┌──[ deep@nordix-enterprise-core ]──[ ~ ]
+┌──[ Dipanjan@nordix-enterprise-core ]──[ ~ ]
 └──╼ $ whoami
-❯ Dipanjan (Deep) Saha — Founder & Principal Systems Architect @ Nordix Technologies
+❯ Dipanjan Saha — Founder & Principal Systems Architect @ Nordix Technologies
 
-┌──[ deep@nordix-enterprise-core ]──[ ~/architecture-manifest ]
+┌──[ Dipanjan@nordix-enterprise-core ]──[ ~/architecture-manifest ]
 └──╼ $ cat systems_profile.json
 {
   "engineering_pillars": [
@@ -240,7 +240,7 @@ flowchart LR
 
   <a href="https://nordixtechnologies.com"><img src="https://img.shields.io/badge/Official_Website-nordixtechnologies.com-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:support@nordixtechnologies.com"><img src="https://img.shields.io/badge/Direct_Email-support@nordixtechnologies.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dipanjan.saha@nordixtechnologies.com"><img src="https://img.shields.io/badge/Direct_Email-dipanjan.saha@nordixtechnologies.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/deep140998"><img src="https://img.shields.io/badge/GitHub-deep140998-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
