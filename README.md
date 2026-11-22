@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://nordixtechnologies.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=DEEP+SAHA;Founder+%26+Principal+Architect+%40+Nordix;Architecting+High-Scale+Enterprise+Platforms;Full-Stack+Laravel+%E2%80%A2+Flutter+%E2%80%A2+AWS+Cloud;Building+Mission-Critical+SaaS+Systems" alt="Deep Saha Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=DIPANJAN+SAHA;Founder+%26+Principal+Architect+%40+Nordix;Architecting+High-Scale+Enterprise+Platforms;Full-Stack+Laravel+%E2%80%A2+Flutter+%E2%80%A2+AWS+Cloud;Building+Mission-Critical+SaaS+Systems" alt="Dipanjan Saha Typing Banner" />
   </a>
 
   <p align="center">
@@ -23,11 +23,11 @@
 ### 🖥️ Architect Cockpit
 
 ```zsh
-┌──[ deep@nordix-enterprise-core ]──[ ~ ]
+┌──[ Dipanjan@nordix-enterprise-core ]──[ ~ ]
 └──╼ $ whoami
-❯ Deep Saha — Founder & Principal Systems Architect @ Nordix Technologies
+❯ Dipanjan Saha — Founder & Principal Systems Architect @ Nordix Technologies
 
-┌──[ deep@nordix-enterprise-core ]──[ ~/architecture-manifest ]
+┌──[ Dipanjan@nordix-enterprise-core ]──[ ~/architecture-manifest ]
 └──╼ $ cat systems_profile.json
 {
   "engineering_pillars": [
@@ -118,9 +118,9 @@
 
   <a href="https://nordixtechnologies.com"><img src="https://img.shields.io/badge/Official_Website-nordixtechnologies.com-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:support@nordixtechnologies.com"><img src="https://img.shields.io/badge/Direct_Email-support@nordixtechnologies.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dipanjan.saha@nordixtechnologies.com"><img src="https://img.shields.io/badge/Direct_Email-dipanjan.saha@nordixtechnologies.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/deep140998"><img src="https://img.shields.io/badge/GitHub-deep140998-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/deep140998"><img src="https://img.shields.io/badge/GitHub-Deep140998-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <br/><br/>
   <sub>© Nordix Technologies • Engineered with precision and built for scale</sub>
