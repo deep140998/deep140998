@@ -1,120 +1,128 @@
-## Hi there 👋
-<!-- ========================================================================= -->
-<!--  DEEP SAHA — GITHUB PROFILE README                                      -->
-<!--  Aesthetic Dark / Neon Cyberpunk Developer Showcase                     -->
-<!-- ========================================================================= -->
-
 <div align="center">
 
-  <!-- Dynamic Waving Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=Deep%20Saha&fontSize=68&fontAlignY=40&desc=Founder%20%26%20Lead%20Architect%20%40%20Nordix%20Technologies&descAlignY=64&descAlign=50" width="100%" />
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/deep140998">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Founder+%26+Lead+Architect+%40+Nordix+Technologies;Architecting+High-Availability+Enterprise+Cloud+Platforms;Full-Stack+Laravel+%E2%80%A2+Flutter+%E2%80%A2+AWS+Cloud+Infrastructure;Building+Mission-Critical+ERP+%26+Healthcare+Ecosystems" alt="Typing SVG" />
+  <!-- Dynamic Typing SVG Header -->
+  <a href="https://nordixtechnologies.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=DEEP+SAHA;Founder+%26+Principal+Architect+%40+Nordix;Architecting+High-Scale+Enterprise+Platforms;Full-Stack+Laravel+%E2%80%A2+Flutter+%E2%80%A2+AWS+Cloud;Building+Mission-Critical+SaaS+Systems" alt="Deep Saha Typing Banner" />
   </a>
 
-  <br/>
-
-  <!-- Quick Badges Strip -->
   <p align="center">
-    <a href="https://nordixtechnologies.com"><img src="https://img.shields.io/badge/Website-nordixtechnologies.com-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:support@nordixtechnologies.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-India-f59e0b?style=for-the-badge&logo=google-maps&logoColor=white" />
+    <strong>Building robust multi-tenant software, distributed cloud systems, and defensive backend architectures.</strong>
+  </p>
+
+  <!-- High-Impact Status Badges -->
+  <p align="center">
+    <a href="https://nordixtechnologies.com"><img src="https://img.shields.io/badge/Nordix_Technologies-Founder_%26_Lead_Architect-00F5D4?style=for-the-badge&logo=shield&logoColor=black" /></a>
+    <img src="https://img.shields.io/badge/Architecture-Multi--Tenant_Distributed_Systems-7928CA?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Infrastructure-AWS_Cloud_%26_Automated_CI%2FCD-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+### 🖥️ Architect Cockpit
 
-```yaml
-Architect: Deep Saha
-Focus: Enterprise Architecture, High-Concurrency Web Applications, Cloud Infrastructure
-Vibe: Clean Git workflows, defensive backend engineering, automated CI/CD
-Current_Ventures:
-  - Multi-Tenant School ERP Engine (High-Scale Laravel & Flutter Ecosystem)
-  - DocDesk Healthcare & Clinical Systems (End-to-End EHR Platform)
-  - Biometric IoT & Machine Telemetry Ingestion Hubs
+```zsh
+┌──[ deep@nordix-enterprise-core ]──[ ~ ]
+└──╼ $ whoami
+❯ Deep Saha — Founder & Principal Systems Architect @ Nordix Technologies
+
+┌──[ deep@nordix-enterprise-core ]──[ ~/architecture-manifest ]
+└──╼ $ cat systems_profile.json
+{
+  "engineering_pillars": [
+    "Multi-Tenant SaaS (Dynamic tenant isolation, pooled & dedicated schemas)",
+    "Defensive Backend Engineering (Strict transactional bounds, double-entry audit guards)",
+    "Automated CI/CD Pipelines (Zero-downtime Git-triggered cloud deployment runners)",
+    "Hardware & IoT Ingestion (Biometric push telemetry, POS thermal printing, RFID)"
+  ],
+  "flagship_platforms": {
+    "Multi_School_ERP": "Comprehensive multi-campus management, fee engines, academics & live transit",
+    "DocDesk_Health": "Clinical EHR suite with interactive Prescription Studio, OPD/IPD & billing",
+    "PharmaOps": "Pharmaceutical logistics, compliance auditing & multi-branch distribution"
+  },
+  "core_infrastructure": "Laravel 11 • Flutter 3 • AWS EC2/RDS/SES • Nginx • MySQL 8 • Ubuntu Linux"
+}
 ```
 
-* 🚀 **Founder & Principal Architect** at [Nordix Technologies](https://nordixtechnologies.com).
-* 🛠️ **Engineering Philosophy:** Clean PRs, database integrity, bulletproof security guards, and automated cloud deployments.
-* 🌐 **Cloud & Systems:** Running multi-school and clinic deployments on AWS EC2, automated GitHub Actions pipelines, and scalable relational backends.
-
 ---
 
-### 💻 Tech Stack & Architecture Arsenal
+### ⚡ Technical Stack & Tools
 
 <div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend & Core** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> |
-| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> |
-| **Databases & Cache** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> |
-| **IoT & Integrations** | <img src="https://img.shields.io/badge/Biometric_Push_SDK-0052CC?style=flat-square&logo=iot&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay_API-0C2340?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_SES-DD344C?style=flat-square&logo=amazon-aws&logoColor=white"/> |
-
-</div>
-
----
-
-### 📊 Live GitHub Activity & Analytics
-
-<div align="center">
-
-  <!-- Overall Stats Card & Streak Stats Side by Side -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=deep140998&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="175" alt="Deep's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deep140998&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="Deep's GitHub Streak" />
+    <strong>Core Languages & Application Frameworks</strong><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,python,nodejs,js,ts,tailwind,bootstrap&theme=dark" alt="Languages & Frameworks" />
+    </a>
   </p>
 
-  <!-- Most Used Languages Donut -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep140998&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="160" alt="Top Languages" />
+    <strong>Cloud, DevOps, Databases & Systems</strong><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,docker,nginx,ubuntu,linux,mysql,redis,sqlite,git,github&theme=dark" alt="DevOps & Databases" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🏗️ Engineering Standards & Capabilities
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deep140998/deep140998/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deep140998/deep140998/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deep140998/deep140998/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Multi-Tenant Enterprise SaaS</h4>
+      <ul>
+        <li>Single-codebase, high-concurrency multi-tenant orchestration.</li>
+        <li>Granular Role-Based Access Control (RBAC) across organizational tiers.</li>
+        <li>Subdomain & custom domain dynamic routing with automated SSL resolution.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Data Integrity & Financial Precision</h4>
+      <ul>
+        <li>Double-entry financial ledgers, audit observer hooks & immutable receipts.</li>
+        <li>Defensive state machines guarding student exits, fee dues & academic milestones.</li>
+        <li>Real-time webhook handlers for payment gateways (Razorpay, UPI, Cards).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Automated CI/CD & DevOps</h4>
+      <ul>
+        <li>Git-driven branch PR approval workflows with automated remote deployment triggers.</li>
+        <li>Zero-downtime artisan migrations, opcode cache flushing & daemon reloads on AWS EC2.</li>
+        <li>Automated queue worker management via Linux systemd / Supervisor.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 IoT & Hardware Device Ingestion</h4>
+      <ul>
+        <li>Biometric attendance push-SDK logging with automated debounce & anti-DoS filters.</li>
+        <li>Cross-platform mobile applications (Android / iOS) via Flutter.</li>
+        <li>Telemetry logging, automated PDF certificate generation & thermal printing drivers.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
+### 📬 Connect & Inquiries
+
 <div align="center">
 
-  <!-- Dynamic Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://nordixtechnologies.com"><img src="https://img.shields.io/badge/Official_Website-nordixtechnologies.com-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:support@nordixtechnologies.com"><img src="https://img.shields.io/badge/Direct_Email-support@nordixtechnologies.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/deep140998"><img src="https://img.shields.io/badge/GitHub-deep140998-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <br/><br/>
-
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,2&height=120&section=footer" width="100%" />
-
-  <sub>Crafted with passion • Built for enterprise-grade scalability</sub>
+  <sub>© Nordix Technologies • Engineered with precision and built for scale</sub>
 
 </div>
-
-<!--
-**deep140998/deep140998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
